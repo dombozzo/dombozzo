@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @dombozzo
 - 👀 I’m interested in mathematics, data analysis, finance, and urban infrastructure initiatives
 - 🌱 I’m currently learning functional programming and web development
-- 💞️ I’m looking to collaborate on environmental research, funcional programming projects
+- 💞️ I’m looking to collaborate on environmental research, functional programming projects
 - 📫 How to reach me ... email! dominicbozzo1@gmail.com. let me know how you got started programming as a passion!
 
 <!---
